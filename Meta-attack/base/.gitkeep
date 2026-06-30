@@ -1,0 +1,5 @@
+Place upstream base images here:
+- figstep/
+- mmsafety/
+
+Run: python generate/prepare_base_images.py --figstep-src ... --mmsafety-src ...

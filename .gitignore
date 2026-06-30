@@ -1,0 +1,30 @@
+.env
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Runtime outputs
+outputs/*
+!outputs/.gitkeep
+*.scored.jsonl
+*.summary.txt
+add_item_figstep/
+add_item_mmsafety/
+
+# Image data (generate locally; not shipped in repo)
+Meta-attack/base/*
+!Meta-attack/base/.gitkeep
+Meta-attack/add_item/*
+!Meta-attack/add_item/.gitkeep
+Meta-attack/add_code/*
+!Meta-attack/add_code/.gitkeep
+*.png
+*.jpg
+*.jpeg
+*.webp
+*.bmp
+*.gif
+*.tif
+*.tiff

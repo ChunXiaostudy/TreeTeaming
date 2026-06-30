@@ -1,0 +1,6 @@
+{
+    "add_code_figstep": "<YOUR_ADD_CODE_FIGSTEP_PROMPT>",
+    "add_code_mmsafety": "<YOUR_ADD_CODE_MMSAFETY_PROMPT>",
+    "add_item_figstep": "<YOUR_ADD_ITEM_FIGSTEP_PROMPT>",
+    "add_item_mmsafety": "<YOUR_ADD_ITEM_MMSAFETY_PROMPT>"
+}

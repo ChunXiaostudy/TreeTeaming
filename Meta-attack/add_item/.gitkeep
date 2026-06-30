@@ -1,0 +1,5 @@
+Place generated add_item images here:
+- figstep/
+- mmsafety/
+
+Run: bash generate/run_qwen_image_edit.sh
